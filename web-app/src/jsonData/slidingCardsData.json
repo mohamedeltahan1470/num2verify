@@ -1,0 +1,67 @@
+{
+  "section_1": {
+    "title": "About Num2Verify",
+    "cards": [
+      {
+        "image": "/images/AboutPageCardsImage_1.png",
+        "title": "Over 100,000 Numbers Originating from Around 180 Countries Online",
+        "body": "Here you can find virtual numbers from more than 180 countries, including the UK, Russia, Sweden, Germany, France, India, Indonesia, Malaysia, Cambodia, Mongolia, Canada, the USA, Thailand, the Netherlands, and Spain."
+      },
+      {
+        "image": "/images/AboutPageCardsImage_2.png",
+        "title": "New Virtual Numbers Added Daily",
+        "body": "Receive unlimited verification codes for any website or app. Pricing starts at one ruble for a single number without monthly SIM plans."
+      },
+      {
+        "image": "/images/AboutPageCardsImage_3.webp",
+        "title": "Single-Use Numbers and Multiple SMS Deliveries",
+        "body": "Get a phone number whenever you want. The process is automated, allowing you to receive an SMS code instantly."
+      }
+    ]
+  },
+  "section_2": {
+    "title": "Why Use a Virtual Number?",
+    "cards": [
+      {
+        "title": "Bulk Registration for Earning and Meetings Personal Needs",
+        "body": "When creating an account, you may be asked to verify your phone number, and in most cases you can create only one account using a single number. However, with virtual numbers, you will be able to create accounts without limitations. You could find this useful if you are a webmaster or an SMM/ORM specialist who views accounts as tools for marketing."
+      },
+      {
+        "title": "Get Rid of Geographical Restrictions",
+        "body": "Certain online projects ban numbers originating from particular countries. The reasons may vary, for example, a Ukrainian website is often restricted for Russian users and vice versa. Sometimes, a text message from a Belarusian operator may not reach the non-Belarusian user. To register on such web zones, you better receive SMS codes using temporary."
+      },
+      {
+        "title": "Get Discounts by Participating in Giveaways",
+        "body": "Many platforms and online stores hold giveaways, where you have to submit a phone number in order to get a gift. In such cases, gifts are given out on a per-person basis — and that’s what SMS verifications are implemented for. By using virtual numbers for receiving SMS codes online, you get an opportunity to bypass any kind of restrictions and enjoy free bonuses in any quantities."
+      },
+      {
+        "title": "Stay Anonymous",
+        "body": "It is well-known that you could get doxed simply because of your phone number—your full name, passport, ID number, and address could go public. You can avoid data leaks by using our SMS delivery platform."
+      },
+      {
+        "title": "Protect Yourself from Fraud",
+        "body": "You have likely faced websites asking you to enter a phone number to download a file without a speed limit. By entering your phone number on such websites, you risk subscribing to a paid service unwillingly. Therefore, we recommend using a disposable number."
+      }
+    ]
+  },
+  "section_3": {
+    "title": "How to Receive an SMS using a Virtual Number",
+    "cards": [
+      {
+        "Badgestep": 1,
+        "title": "Get a Virtual Phone Number",
+        "body": "Choose the service, country, and operator, then claim a number."
+      },
+      {
+        "Badgestep": 2,
+        "title": "Use the Virtual Number to Receive an SMS code",
+        "body": "Copy the phone number you received and paste it to the registration form of the service that you need an SMS code for."
+      },
+      {
+        "Badgestep": 3,
+        "title": "Complete Verification",
+        "body": "Use the verification code from the SMS you received to register an account on the service of your choice."
+      }
+    ]
+  }
+}

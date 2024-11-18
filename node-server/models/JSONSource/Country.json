@@ -1,0 +1,605 @@
+[
+    {
+      "name": "United States",
+      "amount": 100,
+      "country_code": "+1",
+      "country_name_code": "US",
+      "country_icon": "🇺🇸"
+    },
+    {
+      "name": "Canada",
+      "amount": 50,
+      "country_code": "+1",
+      "country_name_code": "CA",
+      "country_icon": "🇨🇦"
+    },
+    {
+      "name": "Mexico",
+      "amount": 40,
+      "country_code": "+52",
+      "country_name_code": "MX",
+      "country_icon": "🇲🇽"
+    },
+    {
+      "name": "Brazil",
+      "amount": 75,
+      "country_code": "+55",
+      "country_name_code": "BR",
+      "country_icon": "🇧🇷"
+    },
+    {
+      "name": "Argentina",
+      "amount": 30,
+      "country_code": "+54",
+      "country_name_code": "AR",
+      "country_icon": "🇦🇷"
+    },
+    {
+      "name": "United Kingdom",
+      "amount": 120,
+      "country_code": "+44",
+      "country_name_code": "GB",
+      "country_icon": "🇬🇧"
+    },
+    {
+      "name": "Germany",
+      "amount": 90,
+      "country_code": "+49",
+      "country_name_code": "DE",
+      "country_icon": "🇩🇪"
+    },
+    {
+      "name": "France",
+      "amount": 110,
+      "country_code": "+33",
+      "country_name_code": "FR",
+      "country_icon": "🇫🇷"
+    },
+    {
+      "name": "Italy",
+      "amount": 85,
+      "country_code": "+39",
+      "country_name_code": "IT",
+      "country_icon": "🇮🇹"
+    },
+    {
+      "name": "Spain",
+      "amount": 60,
+      "country_code": "+34",
+      "country_name_code": "ES",
+      "country_icon": "🇪🇸"
+    },
+    {
+      "name": "Russia",
+      "amount": 95,
+      "country_code": "+7",
+      "country_name_code": "RU",
+      "country_icon": "🇷🇺"
+    },
+    {
+      "name": "China",
+      "amount": 200,
+      "country_code": "+86",
+      "country_name_code": "CN",
+      "country_icon": "🇨🇳"
+    },
+    {
+      "name": "Japan",
+      "amount": 150,
+      "country_code": "+81",
+      "country_name_code": "JP",
+      "country_icon": "🇯🇵"
+    },
+    {
+      "name": "South Korea",
+      "amount": 65,
+      "country_code": "+82",
+      "country_name_code": "KR",
+      "country_icon": "🇰🇷"
+    },
+    {
+      "name": "India",
+      "amount": 130,
+      "country_code": "+91",
+      "country_name_code": "IN",
+      "country_icon": "🇮🇳"
+    },
+    {
+      "name": "Australia",
+      "amount": 55,
+      "country_code": "+61",
+      "country_name_code": "AU",
+      "country_icon": "🇦🇺"
+    },
+    {
+      "name": "New Zealand",
+      "amount": 25,
+      "country_code": "+64",
+      "country_name_code": "NZ",
+      "country_icon": "🇳🇿"
+    },
+    {
+      "name": "South Africa",
+      "amount": 45,
+      "country_code": "+27",
+      "country_name_code": "ZA",
+      "country_icon": "🇿🇦"
+    },
+    {
+      "name": "Egypt",
+      "amount": 35,
+      "country_code": "+20",
+      "country_name_code": "EG",
+      "country_icon": "🇪🇬"
+    },
+    {
+      "name": "Nigeria",
+      "amount": 40,
+      "country_code": "+234",
+      "country_name_code": "NG",
+      "country_icon": "🇳🇬"
+    },
+    {
+      "name": "Kenya",
+      "amount": 20,
+      "country_code": "+254",
+      "country_name_code": "KE",
+      "country_icon": "🇰🇪"
+    },
+    {
+      "name": "Turkey",
+      "amount": 70,
+      "country_code": "+90",
+      "country_name_code": "TR",
+      "country_icon": "🇹🇷"
+    },
+    {
+      "name": "Saudi Arabia",
+      "amount": 50,
+      "country_code": "+966",
+      "country_name_code": "SA",
+      "country_icon": "🇸🇦"
+    },
+    {
+      "name": "United Arab Emirates",
+      "amount": 40,
+      "country_code": "+971",
+      "country_name_code": "AE",
+      "country_icon": "🇦🇪"
+    },
+    {
+      "name": "Iran",
+      "amount": 55,
+      "country_code": "+98",
+      "country_name_code": "IR",
+      "country_icon": "🇮🇷"
+    },
+    {
+      "name": "Iraq",
+      "amount": 20,
+      "country_code": "+964",
+      "country_name_code": "IQ",
+      "country_icon": "🇮🇶"
+    },
+    {
+      "name": "Pakistan",
+      "amount": 60,
+      "country_code": "+92",
+      "country_name_code": "PK",
+      "country_icon": "🇵🇰"
+    },
+    {
+      "name": "Bangladesh",
+      "amount": 45,
+      "country_code": "+880",
+      "country_name_code": "BD",
+      "country_icon": "🇧🇩"
+    },
+    {
+      "name": "Indonesia",
+      "amount": 70,
+      "country_code": "+62",
+      "country_name_code": "ID",
+      "country_icon": "🇮🇩"
+    },
+    {
+      "name": "Malaysia",
+      "amount": 35,
+      "country_code": "+60",
+      "country_name_code": "MY",
+      "country_icon": "🇲🇾"
+    },
+    {
+      "name": "Philippines",
+      "amount": 40,
+      "country_code": "+63",
+      "country_name_code": "PH",
+      "country_icon": "🇵🇭"
+    },
+    {
+      "name": "Thailand",
+      "amount": 50,
+      "country_code": "+66",
+      "country_name_code": "TH",
+      "country_icon": "🇹🇭"
+    },
+    {
+      "name": "Vietnam",
+      "amount": 30,
+      "country_code": "+84",
+      "country_name_code": "VN",
+      "country_icon": "🇻🇳"
+    },
+    {
+      "name": "Singapore",
+      "amount": 25,
+      "country_code": "+65",
+      "country_name_code": "SG",
+      "country_icon": "🇸🇬"
+    },
+    {
+      "name": "Sri Lanka",
+      "amount": 15,
+      "country_code": "+94",
+      "country_name_code": "LK",
+      "country_icon": "🇱🇰"
+    },
+    {
+      "name": "Greece",
+      "amount": 40,
+      "country_code": "+30",
+      "country_name_code": "GR",
+      "country_icon": "🇬🇷"
+    },
+    {
+      "name": "Poland",
+      "amount": 35,
+      "country_code": "+48",
+      "country_name_code": "PL",
+      "country_icon": "🇵🇱"
+    },
+    {
+      "name": "Netherlands",
+      "amount": 60,
+      "country_code": "+31",
+      "country_name_code": "NL",
+      "country_icon": "🇳🇱"
+    },
+    {
+      "name": "Belgium",
+      "amount": 30,
+      "country_code": "+32",
+      "country_name_code": "BE",
+      "country_icon": "🇧🇪"
+    },
+    {
+      "name": "Sweden",
+      "amount": 40,
+      "country_code": "+46",
+      "country_name_code": "SE",
+      "country_icon": "🇸🇪"
+    },
+    {
+      "name": "Norway",
+      "amount": 25,
+      "country_code": "+47",
+      "country_name_code": "NO",
+      "country_icon": "🇳🇴"
+    },
+    {
+      "name": "Denmark",
+      "amount": 30,
+      "country_code": "+45",
+      "country_name_code": "DK",
+      "country_icon": "🇩🇰"
+    },
+    {
+      "name": "Finland",
+      "amount": 20,
+      "country_code": "+358",
+      "country_name_code": "FI",
+      "country_icon": "🇫🇮"
+    },
+    {
+      "name": "Switzerland",
+      "amount": 35,
+      "country_code": "+41",
+      "country_name_code": "CH",
+      "country_icon": "🇨🇭"
+    },
+    {
+      "name": "Austria",
+      "amount": 30,
+      "country_code": "+43",
+      "country_name_code": "AT",
+      "country_icon": "🇦🇹"
+    },
+    {
+      "name": "Portugal",
+      "amount": 25,
+      "country_code": "+351",
+      "country_name_code": "PT",
+      "country_icon": "🇵🇹"
+    },
+    {
+      "name": "Colombia",
+      "amount": 35,
+      "country_code": "+57",
+      "country_name_code": "CO",
+      "country_icon": "🇨🇴"
+    },
+    {
+      "name": "Peru",
+      "amount": 30,
+      "country_code": "+51",
+      "country_name_code": "PE",
+      "country_icon": "🇵🇪"
+    },
+    {
+      "name": "Chile",
+      "amount": 28,
+      "country_code": "+56",
+      "country_name_code": "CL",
+      "country_icon": "🇨🇱"
+    },
+    {
+      "name": "Ecuador",
+      "amount": 25,
+      "country_code": "+593",
+      "country_name_code": "EC",
+      "country_icon": "🇪🇨"
+    },
+    {
+      "name": "Venezuela",
+      "amount": 22,
+      "country_code": "+58",
+      "country_name_code": "VE",
+      "country_icon": "🇻🇪"
+    },
+    {
+      "name": "Uruguay",
+      "amount": 20,
+      "country_code": "+598",
+      "country_name_code": "UY",
+      "country_icon": "🇺🇾"
+    },
+    {
+      "name": "Paraguay",
+      "amount": 18,
+      "country_code": "+595",
+      "country_name_code": "PY",
+      "country_icon": "🇵🇾"
+    },
+    {
+      "name": "Bolivia",
+      "amount": 15,
+      "country_code": "+591",
+      "country_name_code": "BO",
+      "country_icon": "🇧🇴"
+    },
+    {
+      "name": "Czech Republic",
+      "amount": 32,
+      "country_code": "+420",
+      "country_name_code": "CZ",
+      "country_icon": "🇨🇿"
+    },
+    {
+      "name": "Hungary",
+      "amount": 30,
+      "country_code": "+36",
+      "country_name_code": "HU",
+      "country_icon": "🇭🇺"
+    },
+    {
+      "name": "Romania",
+      "amount": 28,
+      "country_code": "+40",
+      "country_name_code": "RO",
+      "country_icon": "🇷🇴"
+    },
+    {
+      "name": "Bulgaria",
+      "amount": 25,
+      "country_code": "+359",
+      "country_name_code": "BG",
+      "country_icon": "🇧🇬"
+    },
+    {
+      "name": "Croatia",
+      "amount": 22,
+      "country_code": "+385",
+      "country_name_code": "HR",
+      "country_icon": "🇭🇷"
+    },
+    {
+      "name": "Serbia",
+      "amount": 20,
+      "country_code": "+381",
+      "country_name_code": "RS",
+      "country_icon": "🇷🇸"
+    },
+    {
+      "name": "Slovakia",
+      "amount": 18,
+      "country_code": "+421",
+      "country_name_code": "SK",
+      "country_icon": "🇸🇰"
+    },
+    {
+      "name": "Slovenia",
+      "amount": 15,
+      "country_code": "+386",
+      "country_name_code": "SI",
+      "country_icon": "🇸🇮"
+    },
+    {
+      "name": "Ireland",
+      "amount": 35,
+      "country_code": "+353",
+      "country_name_code": "IE",
+      "country_icon": "🇮🇪"
+    },
+    {
+      "name": "Iceland",
+      "amount": 30,
+      "country_code": "+354",
+      "country_name_code": "IS",
+      "country_icon": "🇮🇸"
+    },
+    {
+      "name": "Luxembourg",
+      "amount": 28,
+      "country_code": "+352",
+      "country_name_code": "LU",
+      "country_icon": "🇱🇺"
+    },
+    {
+      "name": "Malta",
+      "amount": 25,
+      "country_code": "+356",
+      "country_name_code": "MT",
+      "country_icon": "🇲🇹"
+    },
+    {
+      "name": "Cyprus",
+      "amount": 22,
+      "country_code": "+357",
+      "country_name_code": "CY",
+      "country_icon": "🇨🇾"
+    },
+    {
+      "name": "Estonia",
+      "amount": 20,
+      "country_code": "+372",
+      "country_name_code": "EE",
+      "country_icon": "🇪🇪"
+    },
+    {
+      "name": "Latvia",
+      "amount": 18,
+      "country_code": "+371",
+      "country_name_code": "LV",
+      "country_icon": "🇱🇻"
+    },
+    {
+      "name": "Lithuania",
+      "amount": 15,
+      "country_code": "+370",
+      "country_name_code": "LT",
+      "country_icon": "🇱🇹"
+    },
+    {
+      "name": "Ukraine",
+      "amount": 32,
+      "country_code": "+380",
+      "country_name_code": "UA",
+      "country_icon": "🇺🇦"
+    },
+    {
+      "name": "Belarus",
+      "amount": 30,
+      "country_code": "+375",
+      "country_name_code": "BY",
+      "country_icon": "🇧🇾"
+    },
+    {
+      "name": "Moldova",
+      "amount": 28,
+      "country_code": "+373",
+      "country_name_code": "MD",
+      "country_icon": "🇲🇩"
+    },
+    {
+      "name": "Georgia",
+      "amount": 25,
+      "country_code": "+995",
+      "country_name_code": "GE",
+      "country_icon": "🇬🇪"
+    },
+    {
+      "name": "Armenia",
+      "amount": 22,
+      "country_code": "+374",
+      "country_name_code": "AM",
+      "country_icon": "🇦🇲"
+    },
+    {
+      "name": "Azerbaijan",
+      "amount": 20,
+      "country_code": "+994",
+      "country_name_code": "AZ",
+      "country_icon": "🇦🇿"
+    },
+    {
+      "name": "Kazakhstan",
+      "amount": 18,
+      "country_code": "+7",
+      "country_name_code": "KZ",
+      "country_icon": "🇰🇿"
+    },
+    {
+      "name": "Uzbekistan",
+      "amount": 15,
+      "country_code": "+998",
+      "country_name_code": "UZ",
+      "country_icon": "🇺🇿"
+    },
+    {
+      "name": "Morocco",
+      "amount": 35,
+      "country_code": "+212",
+      "country_name_code": "MA",
+      "country_icon": "🇲🇦"
+    },
+    {
+      "name": "Tunisia",
+      "amount": 30,
+      "country_code": "+216",
+      "country_name_code": "TN",
+      "country_icon": "🇹🇳"
+    },
+    {
+      "name": "Algeria",
+      "amount": 28,
+      "country_code": "+213",
+      "country_name_code": "DZ",
+      "country_icon": "🇩🇿"
+    },
+    {
+      "name": "Libya",
+      "amount": 25,
+      "country_code": "+218",
+      "country_name_code": "LY",
+      "country_icon": "🇱🇾"
+    },
+    {
+      "name": "Ghana",
+      "amount": 22,
+      "country_code": "+233",
+      "country_name_code": "GH",
+      "country_icon": "🇬🇭"
+    },
+    {
+      "name": "Senegal",
+      "amount": 20,
+      "country_code": "+221",
+      "country_name_code": "SN",
+      "country_icon": "🇸🇳"
+    },
+    {
+      "name": "Ivory Coast",
+      "amount": 18,
+      "country_code": "+225",
+      "country_name_code": "CI",
+      "country_icon": "🇨🇮"
+    },
+    {
+      "name": "Cameroon",
+      "amount": 15,
+      "country_code": "+237",
+      "country_name_code": "CM",
+      "country_icon": "🇨🇲"
+    }
+]
+  
